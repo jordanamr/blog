@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>post on Le petit blog de Jordan</title>
+    <link>https://blog.jordanrey.me/tags/post/</link>
+    <description>Recent content in post on Le petit blog de Jordan</description>
+    <image>
+      <url>https://blog.jordanrey.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.jordanrey.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 12 Jul 2022 15:39:15 +0200</lastBuildDate><atom:link href="https://blog.jordanrey.me/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://blog.jordanrey.me/posts/test/</link>
+      <pubDate>Tue, 12 Jul 2022 15:39:15 +0200</pubDate>
+      
+      <guid>https://blog.jordanrey.me/posts/test/</guid>
+      <description>&amp;lt;description&amp;gt;</description>
+    </item>
+    
+  </channel>
+</rss>
