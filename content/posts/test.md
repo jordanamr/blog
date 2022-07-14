@@ -1,5 +1,5 @@
 ---
-title: "Test mioau"
+title: "Test"
 date: 2022-07-12T15:39:15+02:00
 draft: false
 # weight: 1
@@ -13,4 +13,4 @@ description: "<description>"
 hideSummary: false
 ---
 
-Test miaou
+Test
