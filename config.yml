@@ -72,9 +72,9 @@ params:
     - name: rss
       url: "index.xml"
 
-  # analytics:
-  #   google:
-  #     SiteVerificationTag: ""
+  analytics:
+    google:
+      SiteVerificationTag: "ZaD6075iUGWj9XDxPWnNBc5cDWLfvjN-6FbqGxhIbTE"
   #   bing:
   #     SiteVerificationTag: ""
   #   yandex:
