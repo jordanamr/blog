@@ -23,7 +23,7 @@ minify:
 params:
   # env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Jordan Rey
-  description: "Le blog personnel de Jordan Rey"
+  description: "Suivez mes petites aventures mêlant rétro-ingénierie, sécurité, développement et jeu vidéo."
   keywords: [Blog, Jordan]
   author: Jordan Rey
   images: ["/apple-touch-icon.png"]
