@@ -14,7 +14,7 @@ buildExpired: false
 permalinks:
   posts: /posts/:title/
 
-# googleAnalytics: UA-123-45
+googleAnalytics: G-SM4944N80E
 
 minify:
   disableXML: true
@@ -72,9 +72,9 @@ params:
     - name: rss
       url: "index.xml"
 
-  analytics:
-    google:
-      SiteVerificationTag: "ZaD6075iUGWj9XDxPWnNBc5cDWLfvjN-6FbqGxhIbTE"
+  # analytics:
+  #   google:
+  #     SiteVerificationTag: ""
   #   bing:
   #     SiteVerificationTag: ""
   #   yandex:
