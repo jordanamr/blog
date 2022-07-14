@@ -9,16 +9,6 @@
       <link>https://blog.jordanrey.me/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language>
-    <lastBuildDate>Tue, 12 Jul 2022 15:39:15 +0200</lastBuildDate><atom:link href="https://blog.jordanrey.me/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>post</title>
-      <link>https://blog.jordanrey.me/tags/post/</link>
-      <pubDate>Tue, 12 Jul 2022 15:39:15 +0200</pubDate>
-      
-      <guid>https://blog.jordanrey.me/tags/post/</guid>
-      <description></description>
-    </item>
-    
+    <language>fr</language><atom:link href="https://blog.jordanrey.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

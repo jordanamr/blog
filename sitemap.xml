@@ -2,23 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.jordanrey.me/</loc>
-    <lastmod>2022-07-12T15:39:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.jordanrey.me/tags/post/</loc>
-    <lastmod>2022-07-12T15:39:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.jordanrey.me/posts/</loc>
-    <lastmod>2022-07-12T15:39:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.jordanrey.me/tags/</loc>
-    <lastmod>2022-07-12T15:39:15+02:00</lastmod>
-  </url><url>
-    <loc>https://blog.jordanrey.me/posts/test/</loc>
-    <lastmod>2022-07-12T15:39:15+02:00</lastmod>
-  </url><url>
     <loc>https://blog.jordanrey.me/categories/</loc>
   </url><url>
+    <loc>https://blog.jordanrey.me/</loc>
+  </url><url>
     <loc>https://blog.jordanrey.me/search/</loc>
+  </url><url>
+    <loc>https://blog.jordanrey.me/tags/</loc>
   </url>
 </urlset>
